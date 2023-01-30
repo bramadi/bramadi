@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I’m @bramadi 👋
+- 👀 I’m a PhD student with interests in bioinformatics and systems biology, specifically employing single-cell sequencing technology.
+- 📫 How to reach me - bramadiarya (at) gmail.com
 
 <!--
 **bramadi/bramadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
