@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋  I’m @bramadi
+I've always been fascinated by science and wanted to understand how nature works.
+
+## Get in Touch with Me
+- **Email**: bramadiarya [at] gmail.com
 
 <!--
 **bramadi/bramadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
